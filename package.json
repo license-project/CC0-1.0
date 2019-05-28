@@ -1,0 +1,22 @@
+{
+    "name": "@license-project/CC0-1.0",
+    "version": "1.0.0",
+    "description": "CC0 1.0 Universal License",
+    "keywords": [
+        "license-project",
+        "license",
+        "spdx",
+        "CC0-1.0"
+    ],
+    "license": "CC0-1.0",
+    "author": {
+        "name": "Piper McCorkle",
+        "email": "piperswe@gmail.com"
+    },
+    "esnext": "index.mjs",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/license-project/CC0-1.0"
+    }
+}
